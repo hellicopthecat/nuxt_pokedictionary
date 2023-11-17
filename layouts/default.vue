@@ -2,6 +2,7 @@
 
 <template>
   <div>
+    <HeadComp />
     <NuxtPage />
   </div>
 </template>
