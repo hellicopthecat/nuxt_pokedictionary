@@ -11,8 +11,17 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
+    "@nuxtjs/tailwindcss": "^6.9.5",
     "nuxt": "^3.8.1",
+    "typescript": "^5.2.2",
     "vue": "^3.3.8",
-    "vue-router": "^4.2.5"
+    "vue-router": "^4.2.5",
+    "vue-tsc": "^1.8.22"
+  },
+  "dependencies": {
+    "@hebilicious/vue-query-nuxt": "^0.2.1",
+    "@pinia/nuxt": "^0.5.1",
+    "@tanstack/vue-query": "^4.37.1",
+    "pinia": "^2.1.7"
   }
 }
